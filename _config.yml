@@ -7,7 +7,7 @@ twitter_username: h5hrn
 github_username: h5hrn
 
 # Build settings
-theme: minima
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
