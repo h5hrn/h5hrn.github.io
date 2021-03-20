@@ -30,6 +30,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+    - docker-compose.yml
+    - "*.code-workspace"
 
 # Time Zone
 timezone: Asia/Tokyo
