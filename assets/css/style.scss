@@ -1,0 +1,19 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+.categories-list {
+  ul {
+    padding-left: 0px;
+  }
+
+  li {
+    display: inline;
+    margin: 0px 5px;
+  }
+}
+
+.category-count {
+  font-size: 80%;
+}
